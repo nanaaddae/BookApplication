@@ -25,7 +25,7 @@ Book Tracking Application is a full-stack web application that allows users to s
 ### Backend (Django)
 
 1. Clone the repository:
-   git clone https://github.com/your-username/book-tracking-application.git
+   git clone https://github.com/nanaaddae/BookApplication.git
    cd book-tracking-application/backend
 
 2. Create and activate a virtual environment:
